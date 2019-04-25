@@ -1,0 +1,6 @@
+D:\900-PERSONAL\900-PERSONAL PROJECTS\WcfSample\WcfSample\WebClient\bin\WebClient.dll.config
+D:\900-PERSONAL\900-PERSONAL PROJECTS\WcfSample\WcfSample\WebClient\bin\WebClient.dll
+D:\900-PERSONAL\900-PERSONAL PROJECTS\WcfSample\WcfSample\WebClient\bin\WebClient.pdb
+D:\900-PERSONAL\900-PERSONAL PROJECTS\WcfSample\WcfSample\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+D:\900-PERSONAL\900-PERSONAL PROJECTS\WcfSample\WcfSample\WebClient\obj\Debug\WebClient.dll
+D:\900-PERSONAL\900-PERSONAL PROJECTS\WcfSample\WcfSample\WebClient\obj\Debug\WebClient.pdb

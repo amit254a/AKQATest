@@ -1,0 +1,5 @@
+D:\900-PERSONAL\900-PERSONAL PROJECTS\WcfSample\WcfSample\WcfSample\bin\WcfSample.dll.config
+D:\900-PERSONAL\900-PERSONAL PROJECTS\WcfSample\WcfSample\WcfSample\bin\WcfSample.dll
+D:\900-PERSONAL\900-PERSONAL PROJECTS\WcfSample\WcfSample\WcfSample\bin\WcfSample.pdb
+D:\900-PERSONAL\900-PERSONAL PROJECTS\WcfSample\WcfSample\WcfSample\obj\Debug\WcfSample.dll
+D:\900-PERSONAL\900-PERSONAL PROJECTS\WcfSample\WcfSample\WcfSample\obj\Debug\WcfSample.pdb
